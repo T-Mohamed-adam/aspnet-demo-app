@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\1638dde4-aab9-420b-9c10-08b33adfe365_2022_6_5_15_58_24_133.jpg",
+      "PackagePath": "staticwebassets\\images\\1638dde4-aab9-420b-9c10-08b33adfe365_2022_6_5_15_58_24_133.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\17c84e78-0f5f-4210-b4ce-44430f777b23_2022_6_5_15_58_24_133.jpg",
+      "PackagePath": "staticwebassets\\images\\17c84e78-0f5f-4210-b4ce-44430f777b23_2022_6_5_15_58_24_133.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\32cfa964-57a5-4435-8fb5-ab5aa2fd3bb2_images (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\32cfa964-57a5-4435-8fb5-ab5aa2fd3bb2_images (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\4ddd1d6b-3eae-42ff-8360-db056ba08a99_images (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\4ddd1d6b-3eae-42ff-8360-db056ba08a99_images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\57935247-66bf-42f7-9fdf-d3c3290a3cb1_images (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\57935247-66bf-42f7-9fdf-d3c3290a3cb1_images (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\6a2066ba-2322-4634-8be7-7016d4e61286_Iced-mocha-coffee-recipe-7.jpg",
+      "PackagePath": "staticwebassets\\images\\6a2066ba-2322-4634-8be7-7016d4e61286_Iced-mocha-coffee-recipe-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\8ca5768d-4bba-41c7-9211-526236ef0a2a_2022_6_5_15_58_24_133.jpg",
+      "PackagePath": "staticwebassets\\images\\8ca5768d-4bba-41c7-9211-526236ef0a2a_2022_6_5_15_58_24_133.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\a6eec094-7dc7-46d4-a7d4-504b1c47fab9_images (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\a6eec094-7dc7-46d4-a7d4-504b1c47fab9_images (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\b5c0f935-5935-4d81-86eb-4a23a71caad1_unnamed.jpg",
+      "PackagePath": "staticwebassets\\images\\b5c0f935-5935-4d81-86eb-4a23a71caad1_unnamed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\ba3182c5-353b-450b-8ace-9f9fc70a1651_images (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\ba3182c5-353b-450b-8ace-9f9fc70a1651_images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\wwwroot\\images\\image.jpeg",
+      "PackagePath": "staticwebassets\\images\\image.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeAdminPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeAdminPortal.props",
+      "PackagePath": "build\\EmployeeAdminPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeAdminPortal.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeAdminPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeAdminPortal.props",
+      "PackagePath": "buildTransitive\\EmployeeAdminPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

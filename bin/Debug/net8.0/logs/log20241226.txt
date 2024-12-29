@@ -1,0 +1,15 @@
+2024-12-26 14:23:25.697 +03:00 [INF] User profile is available. Using 'C:\Users\pc\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-26 14:23:25.895 +03:00 [INF] Now listening on: http://localhost:5000
+2024-12-26 14:23:25.899 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 14:23:25.901 +03:00 [INF] Hosting environment: Production
+2024-12-26 14:23:25.902 +03:00 [INF] Content root path: C:\Users\pc\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0
+2024-12-26 14:24:38.056 +03:00 [INF] User profile is available. Using 'C:\Users\pc\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-26 14:24:38.636 +03:00 [INF] Now listening on: http://localhost:5000
+2024-12-26 14:24:38.646 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 14:24:38.648 +03:00 [INF] Hosting environment: Production
+2024-12-26 14:24:38.649 +03:00 [INF] Content root path: C:\Users\pc\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0
+2024-12-26 14:25:30.785 +03:00 [INF] User profile is available. Using 'C:\Users\pc\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-26 14:25:30.952 +03:00 [INF] Now listening on: http://localhost:5000
+2024-12-26 14:25:30.965 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 14:25:30.970 +03:00 [INF] Hosting environment: Production
+2024-12-26 14:25:30.972 +03:00 [INF] Content root path: C:\Users\pc\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\bin\Debug\net8.0

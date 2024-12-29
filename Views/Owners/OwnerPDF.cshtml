@@ -1,0 +1,48 @@
+﻿@model IEnumerable<EmployeeAdminPortal.Models.Dtos.OwnerResponseDto>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Owner List</title>
+</head>
+<body>
+    <img src="~/images/image.jpeg" />
+    <img src="http://localhost:5128/images/image.jpeg" />
+    <h1>Owner List</h1>
+
+    <table border="1" cellpadding="10" cellspacing="0">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>BusinessName</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                int counter = 1;
+                foreach (var owner in Model)
+                {
+                    <tr>
+                        <td>@counter</td>
+                        <td>@owner.FirstName</td>
+                        <td>@owner.LastName</td>
+                        <td>@owner.BusinessName</td>
+                        <td>@owner.Email</td>
+                    </tr>
+                    counter++;
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5">No owners available.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
